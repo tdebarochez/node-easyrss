@@ -40,6 +40,9 @@ The following are the major contributors of `node-easyrss` (in no specific order
 
   * Nicholas Penree ([drudge](http://github.com/drudge))
   * Rob Searles ([ibrow](http://github.com/ibrow))
+  * Jeromy Knope ([jfro](http://github.com/jfro))
+  * Hannah Fouasnon ([fouasnon](http://github.com/fouasnon))
+
 
 ## License 
 
